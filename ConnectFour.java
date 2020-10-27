@@ -5,6 +5,7 @@ public class ConnectFour { // ADDING COMMENT AS CHANGE FOR GITHUB
 
 
     public static void main(String[] args) {
+        System.out.println("Changed Something");
 
 
         Scanner scnr = new Scanner(System.in);

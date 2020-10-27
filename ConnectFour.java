@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
-public class ConnectFour {
+public class ConnectFour { // ADDING COMMENT AS CHANGE FOR GITHUB
+
 
 
     public static void main(String[] args) {
